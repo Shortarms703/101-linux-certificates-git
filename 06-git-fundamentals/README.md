@@ -77,7 +77,7 @@ Below are the most common options for configuring Git. Run these commands from a
 | :--------- | ------- |
 | `git init` | Initializes a new Git Repository in the current directory |
 | `git status` | Shows the current status of the repository, including staged, unstaged, and untracked files. |
-| `git clone <respository_url>` | Clonse a repository from a remote source to your local machine. |
+| `git clone <respository_url>` | Clones a repository from a remote source to your local machine. |
 | `git add <file_or_directory>` | Adds specified files or directories to the staging area, preparing them for a commit. Use `.`  to add all changes in the directory. |
 | `git commit -m "commit message"` | Commits staged changes to the repository with a descriptive message. |
 | `git push <remote> <branch>` | Pushes local changes to a remote repository. Typically, the remote is `origin`, and the branch is `main` or `master`. |
