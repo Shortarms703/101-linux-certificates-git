@@ -72,6 +72,7 @@ sudo usermod -aG cousadmin pluser
 ```
 
 `-a` to append the user to supplemental GROUPS mentioned by the -G option without removing the user from other groups
+
 `-G` specifies the group to add, and that the group is not the user's primary group
 
 ### Add user to group with usermod
