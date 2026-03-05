@@ -68,7 +68,7 @@ sudo groupadd courseadmin
 
 On ***server1***, add the `pluser` user to the new `courseadmin` group
 ```bash
-sudo usermod -aG cousadmin pluser
+sudo usermod -aG courseadmin pluser
 ```
 
 `-a` to append the user to supplemental GROUPS mentioned by the -G option without removing the user from other groups
