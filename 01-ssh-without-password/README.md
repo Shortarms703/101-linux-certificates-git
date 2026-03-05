@@ -88,7 +88,7 @@ ssh {user}@{serverip}
 
  Now you can connect to the server without a password.
 
-You can very the `authorized_keys` file
+You can verify the `authorized_keys` file
 
 ```bash
 ls -l ~/.ssh/authorized_keys
