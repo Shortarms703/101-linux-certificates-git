@@ -28,7 +28,7 @@ Add the following line to the bottom of the file
 
 Running `visudo` without any flags will modify the global sudoers file.
 
-You can also create idividual sudoers files for users or groups, you can modify those with the `-f` option with the cli
+You can also create individual sudoers files for users or groups, you can modify those with the `-f` option with the cli
 
 ```bash
 sudo visudo -f /etc/sudoers.d/ansible
