@@ -56,7 +56,7 @@ The results produce the three-digit value 744.
 
 `sudo chmod 777 testfile` is the same as `sudo chmod u=rwx,g=rwx,o=rwx testfile` and the same as `sudo chmod a=rwx testfile`
 
-all 3 of the above commands result in a file with the permissions: `-rwxrwxrwx  1 root root    0 Nov  8 20:58 testfile`
+All 3 of the above commands result in a file with the permissions: `-rwxrwxrwx  1 root root    0 Nov  8 20:58 testfile`
 
 ## File and Folder Ownership
 
